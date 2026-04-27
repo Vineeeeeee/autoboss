@@ -14,14 +14,14 @@ CoordMode "ToolTip", "Screen"  ; ToolTip dùng tọa độ màn hình thật
 ; ESC = Thoát
 
 GAME_CLASS := "ahk_class UnityWndClass"
-BOSS_FOLDER := "C:\Users\dotri\NRO_Tools\boss"
+BOSS_FOLDER := "C:\Users\dotri\Downloads\Pc - CBNR\autoboss\boss"
 
 ; ===== CẤU HÌNH =====
 KHU_MIN := 0
 KHU_MAX := 29
 THOI_GIAN_DOI_KHU := 8000
 THOI_GIAN_QUET_BOSS := 1000
-THOI_GIAN_XAC_NHAN_CHET := 5000
+THOI_GIAN_XAC_NHAN_CHET := 10000
 TOLERANCE := 50
 
 SCAN_X1 := 0
